@@ -866,3 +866,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.12-23.58.25:759][295]LogSavePackage: Moving 'C:/Users/YZX06/Documents/GitHub/Unreal-Blueprint-Project/PUBG_BP_Project/Saved/DT_CameraHeight7269D5034DE2C70048C06DABB8F7FFD7.tmp' to 'C:/Users/YZX06/Documents/GitHub/Unreal-Blueprint-Project/PUBG_BP_Project/Content/Blueprints/Datas/DataTable/DT_CameraHeight.uasset'
 [2021.05.12-23.58.25:825][295]AssetCheck: New page: Asset Save: DT_CameraHeight
 [2021.05.12-23.58.25:825][295]LogContentValidation: Display: Validating DataTable /Game/Blueprints/Datas/DataTable/DT_CameraHeight.DT_CameraHeight
+[2021.05.12-23.59.06:256][966]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.05.12-23.59.06:548][966]LogSlate: Took 0.046058 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.05.12-23.59.19:456][855]LogSavePackage: Moving 'C:/Users/YZX06/Documents/GitHub/Unreal-Blueprint-Project/PUBG_BP_Project/Saved/DT_CameraHeight050E00EA40C1E22230E3189B4FCDF5E3.tmp' to 'C:/Users/YZX06/Documents/GitHub/Unreal-Blueprint-Project/PUBG_BP_Project/Content/Blueprints/Datas/DataTable/DT_CameraHeight.uasset'
+[2021.05.12-23.59.19:496][855]AssetCheck: New page: Asset Save: DT_CameraHeight
+[2021.05.12-23.59.19:496][855]LogContentValidation: Display: Validating DataTable /Game/Blueprints/Datas/DataTable/DT_CameraHeight.DT_CameraHeight
