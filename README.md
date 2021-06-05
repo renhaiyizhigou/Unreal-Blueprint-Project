@@ -60,13 +60,9 @@ M - Toggle Map [Not Yet added] <br />
 
 
 <!-- GETTING STARTED -->
-### Diagrams 
+### Diagram
 <p align="center">Game Item UML Class Diagram 
 <img width="1000" alt="Item Base" src="https://user-images.githubusercontent.com/59629632/120907046-5319ea00-c62c-11eb-9c6e-663f3ed8eb8a.png">
-</p>
-
-<p align="center"> Equipment Pickup Flow Chart
-<img width="700" alt="PickupEquipment FC" src="https://user-images.githubusercontent.com/59629632/120907180-75603780-c62d-11eb-8bfc-345783634d99.png">
 </p>
 
 
