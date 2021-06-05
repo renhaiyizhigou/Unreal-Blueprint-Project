@@ -19,35 +19,6 @@
 </p>
 
 
-
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 Hello everyone, this is an ongoing project I’m working on using UE4’s Blueprint visual scripting feature. The game draws inspiration from PlayerUnknown's Battlegrounds (PUBG), which is an online multiplayer battle royale game developed and published by PUBG Corporation. The Asset used in this game is provided by @BigCatNIU. Please note that the current version of the game does not support multiplayer yet. 
@@ -90,22 +61,35 @@ M - Toggle Map [Not Yet added] <br />
 
 <!-- GETTING STARTED -->
 ### Diagrams 
+<p align="center">Game Item UML Class Diagram 
+<img width="1000" alt="Item Base" src="https://user-images.githubusercontent.com/59629632/120907046-5319ea00-c62c-11eb-9c6e-663f3ed8eb8a.png">
+</p>
 
-
+<p align="center"> Equipment Pickup And Discard Flow Charts
+<img width="700" alt="PickupEquipment FC" src="https://user-images.githubusercontent.com/59629632/120907180-75603780-c62d-11eb-8bfc-345783634d99.png">
+<img width="546" alt="DiscardEquipmentFC" src="https://user-images.githubusercontent.com/59629632/120907181-785b2800-c62d-11eb-8cdc-45138f4a3ba4.png">
+</p>
 
 
 ### System Requirement
 UE4 It is developed by the Epic Games and is considered one of the most open and advanced real-time 3D creation tools. The Minimum System requirement for running UE4 is listed below: 
 <br /><br />
-Dsktop running on Microsoft Windows or MAC <br /><br />
+Desktop running on Microsoft Windows or MAC <br /><br />
 The operating system needs to be Windows 7 64-bit or Mac OS X 10.9.2 or the latest. <br /><br />
 The processor is one of the most vital parts of the system, which impacts the performance of the system. The minimum requirement of the processor needs to be Quad-core Intel or AMD processor of 2.5 GHz or faster.<br /><br />
 The Graphics card needs to be NVIDIA GeForce 470 GTX or AMD Radeon 6870 HD series card or higher. With a higher amount of VRAM, your workstation will be able to display your content even in 4K, and the extra power will be good for games.<br /> <br />
- you can run Unreal Engine 4 on 4GB RAM but it might slow if you have many applications running in the background. To run it smoothly, 8GB RAM is recommended.<br /><br />
+You can run Unreal Engine 4 on 4GB RAM but it might slow if you have many applications running in the background. To run it smoothly, 8GB RAM is recommended.<br /><br />
 
 
-### Screenshots
 
+### Project Demo Screenshots
+<p align="center">Inventory View
+<img width="1000" alt="Inventery" src="https://user-images.githubusercontent.com/59629632/120907225-d556de00-c62d-11eb-8831-cc69852b1bf3.png">
+</p>
+
+<p align="center">Sample Blueprint With Comment
+<img width="1000" alt="Blueprint Exaple" src="https://user-images.githubusercontent.com/59629632/120907255-09ca9a00-c62e-11eb-9fae-0875ad5c4759.png">
+</p>
 
 ## Contributing
 
@@ -119,7 +103,6 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- CONTACT -->
 ## Contact
-
 ZhenXiao Yu - zyu347@uwo.ca
 
 Project Link: [https://github.com/zhenxiao-yu/Unreal-Blueprint-Project](https://github.com/zhenxiao-yu/Unreal-Blueprint-Project)
