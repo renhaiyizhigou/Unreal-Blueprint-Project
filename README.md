@@ -54,6 +54,33 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Hello everyone, this is an ongoing project I’m working on using UE4’s Blueprint visual scripting feature. The game draws inspiration from PlayerUnknown's Battlegrounds (PUBG), which is an online multiplayer battle royale game developed and published by PUBG Corporation. The Asset used in this game is provided by @BigCatNIU. Please note that the current version of the game does not support multiplayer yet. 
+
+In this game, you get to control the character using your keyboard and mouse. The Character has three main positions - stand, crouch and prone. You can move around in all three positions. Pressing down Shift/ Ctrl while you move will increase/decrease your character’s speed. Since there isn’t a built-in interface that allows you to change keyboard input in the game yet, here are all the inputs I used during development. 
+
+Move Mouse - Look Around
+W - Move Forward
+A - Move Left
+S - Move Backward
+D - Move Right
+Space - Jump
+C - Crouch
+Z - Prone
+Left Ctrl - Walk
+Left Shift - Run
+G - Discard Current Weapon
+Click Right Mouse Button - Open Sight
+Hold Right Mouse Button - Normal Aim
+Left Mouse Button - Fire Gun
+B - Change Shoot Mode (Single Or Auto)
+R - Reload
+X - Take Back Current Weapon
+Tab - Show Inventory
+1 - Equip Left Weapon
+2 - Equip Right Weapon
+F - Interact With Item
+Hold Left Alt - Look Around Player
+M - Toggle Map [Not Yet added]
 
 
 
