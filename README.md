@@ -6,12 +6,10 @@
 <p align="center"><img width="1000" alt="Start" src="https://user-images.githubusercontent.com/59629632/120905877-244b4600-c623-11eb-80f6-2f8931987eb9.png">
   </a>
 
-  <h3 align="center">Welcome To PUBG Blueprint Project</h3>
+  <h3 align="center">Welcome To Unreal Blueprint Project!</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    Contributor: ZhenXiao Yu  | Start Date: May 2021 | UE4 Version: 4.26.2
     <br />
     <br />
     <a href="https://github.com/zhenxiao-yu/Unreal-Blueprint-Project/issues">Report Bug</a>
@@ -55,32 +53,30 @@
 Hello everyone, this is an ongoing project I’m working on using UE4’s Blueprint visual scripting feature. The game draws inspiration from PlayerUnknown's Battlegrounds (PUBG), which is an online multiplayer battle royale game developed and published by PUBG Corporation. The Asset used in this game is provided by @BigCatNIU. Please note that the current version of the game does not support multiplayer yet. 
 
 In this game, you get to control the character using your keyboard and mouse. The Character has three main positions - stand, crouch and prone. You can move around in all three positions. Pressing down Shift/ Ctrl while you move will increase/decrease your character’s speed. Since there isn’t a built-in interface that allows you to change keyboard input in the game yet, here are all the inputs I used during development. 
-
-Move Mouse - Look Around
-W - Move Forward
-A - Move Left
-S - Move Backward
-D - Move Right
-Space - Jump
-C - Crouch
-Z - Prone
-Left Ctrl - Walk
-Left Shift - Run
-G - Discard Current Weapon
-Click Right Mouse Button - Open Sight
-Hold Right Mouse Button - Normal Aim
-Left Mouse Button - Fire Gun
-B - Change Shoot Mode (Single Or Auto)
-R - Reload
-X - Take Back Current Weapon
-Tab - Show Inventory
-1 - Equip Left Weapon
-2 - Equip Right Weapon
-F - Interact With Item
-Hold Left Alt - Look Around Player
-M - Toggle Map [Not Yet added]
-
-
+<br />
+Move Mouse - Look Around  <br />
+W - Move Forward  <br />
+A - Move Left  <br />
+S - Move Backward  <br />
+D - Move Right  <br />
+Space - Jump  <br />
+C - Crouch  <br />
+Z - Prone <br />
+Left Ctrl - Walk <br />
+Left Shift - Run <br />
+G - Discard Current Weapon <br />
+Click Right Mouse Button - Open Sight <br />
+Hold Right Mouse Button - Normal Aim <br />
+Left Mouse Button - Fire Gun <br />
+B - Change Shoot Mode (Single Or Auto) <br />
+R - Reload <br />
+X - Take Back Current Weapon <br />
+Tab - Show Inventory <br />
+1 - Equip Left Weapon <br />
+2 - Equip Right Weapon <br />
+F - Interact With Item <br />
+Hold Left Alt - Look Around Player <br />
+M - Toggle Map [Not Yet added] <br />
 
 
 ### Built With
@@ -92,10 +88,8 @@ M - Toggle Map [Not Yet added]
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+### Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
