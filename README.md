@@ -86,6 +86,14 @@ You can run Unreal Engine 4 on 4GB RAM but it might slow if you have many applic
 <img width="1000" alt="Blueprint Exaple" src="https://user-images.githubusercontent.com/59629632/120907255-09ca9a00-c62e-11eb-9fae-0875ad5c4759.png">
 </p>
 
+<p align="center">Command Center View
+<img width="1000" alt="Command Center" src="https://user-images.githubusercontent.com/59629632/120908813-54531300-c63c-11eb-9b45-fa0e40834948.png">
+</p>
+
+<p align="center">Open Scope View
+<img width="1283" alt="Scope " src="https://user-images.githubusercontent.com/59629632/120908816-6339c580-c63c-11eb-9d4d-f03be0eb5acf.png">
+</p>
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, feel free to add you own features to the game by following the following steps.
