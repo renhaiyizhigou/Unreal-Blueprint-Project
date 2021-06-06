@@ -94,6 +94,9 @@ You can run Unreal Engine 4 on 4GB RAM but it might slow if you have many applic
 <img width="1283" alt="Scope " src="https://user-images.githubusercontent.com/59629632/120908816-6339c580-c63c-11eb-9d4d-f03be0eb5acf.png">
 </p>
 
+<p align="center">Character Pose State Machine
+<img width="1000" alt="Locomotion" src="https://user-images.githubusercontent.com/59629632/120908905-46ea5880-c63d-11eb-9773-c523fec6a675.png">
+</p>
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, feel free to add you own features to the game by following the following steps.
