@@ -3615,3 +3615,124 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.06-20.42.01:375][425]LogPlayLevel: Display: Destroying online subsystem :Context_23
 [2021.08.06-20.42.09:281][197]BlueprintLog: New page: Compile DirectionUI
 [2021.08.06-20.42.09:323][197]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.08.06-20.42.27:944][640]LogSavePackage: Moving 'C:/Users/YZX06/Documents/GitHub/Unreal-Blueprint-Project/PUBG_BP_Project/Saved/DirectionUI70BCBF5C4F7BB1E8B879D4A41DD783F9.tmp' to 'C:/Users/YZX06/Documents/GitHub/Unreal-Blueprint-Project/PUBG_BP_Project/Content/Blueprints/UI/MainUI/DirectionUI.uasset'
+[2021.08.06-20.42.27:975][640]AssetCheck: New page: Asset Save: DirectionUI
+[2021.08.06-20.42.27:975][640]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/MainUI/DirectionUI.DirectionUI
+[2021.08.06-20.43.35:923][567]BlueprintLog: New page: Compile DirectionUI
+[2021.08.06-20.43.35:970][567]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2021.08.06-20.43.37:671][707]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.08.06-20.43.37:677][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.06-20.43.37:677][707]PIE: New page: PIE session: Level_Test (Aug. 6, 2021, 12:43:37 p.m.)
+[2021.08.06-20.43.37:677][707]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Test
+[2021.08.06-20.43.37:941][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.263609s)
+[2021.08.06-20.43.37:942][707]LogAIModule: Creating AISystem for world Level_Test
+[2021.08.06-20.43.37:942][707]LogPlayLevel: PIE: World Init took: (0.001064s)
+[2021.08.06-20.43.37:942][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Test.Level_Test to /Game/Maps/UEDPIE_0_Level_Test.Level_Test (0.264837s)
+[2021.08.06-20.43.37:971][707]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2021.08.06-20.43.37:972][707]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.08.06-20.43.37:972][707]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.06-20.43.37:972][707]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.06-20.43.37:972][707]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.06-20.43.37:972][707]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.06-20.43.37:972][707]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.06-20.43.37:972][707]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.06-20.43.37:972][707]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.06-20.43.37:972][707]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.06-20.43.37:972][707]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.06-20.43.37:972][707]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.06-20.43.37:976][707]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.06-20.43.37:976][707]LogAudioMixer: Display: 1: FrontRight
+[2021.08.06-20.43.37:986][707]LogAudioMixer: Display: Using Audio Device 1 - LG HDR 4K (AMD High Definition Audio Device)
+[2021.08.06-20.43.37:986][707]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.06-20.43.37:986][707]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.06-20.43.37:986][707]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.06-20.43.37:986][707]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.06-20.43.37:987][707]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.06-20.43.37:987][707]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.06-20.43.37:997][707]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.06-20.43.37:997][707]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.06-20.43.37:997][707]LogInit: FAudioDevice initialized.
+[2021.08.06-20.43.37:997][707]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level_Test'.
+[2021.08.06-20.43.38:038][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-20.43.38:039][707]LogLoad: Game class is 'MyGameMode_C'
+[2021.08.06-20.43.38:069][707]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Test.Level_Test up for play (max tick rate 0) at 2021.08.06-16.43.38
+[2021.08.06-20.43.38:069][707]LogWorld: Bringing up level for play took: 0.030356
+[2021.08.06-20.43.38:070][707]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.08.06-20.43.38:198][707]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.06-20.43.38:201][707]PIE: Server logged in
+[2021.08.06-20.43.38:202][707]PIE: Play in editor total start time 0.525 seconds.
+[2021.08.06-20.44.18:143][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-20.44.18:143][353]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_Test
+[2021.08.06-20.44.18:143][353]LogSlate: Window 'PUBG_Blueprint Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.06-20.44.18:162][353]LogWorld: UWorld::CleanupWorld for Level_Test, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-20.44.18:167][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-20.44.18:178][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.06-20.44.18:197][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-20.44.18:228][353]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.06-20.44.18:228][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-20.44.18:229][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-20.44.18:251][353]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.08.06-20.44.18:300][354]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.08.06-20.44.59:641][788]BlueprintLog: New page: Compile DirectionUI
+[2021.08.06-20.44.59:685][788]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2021.08.06-20.45.00:453][858]LogSavePackage: Moving 'C:/Users/YZX06/Documents/GitHub/Unreal-Blueprint-Project/PUBG_BP_Project/Saved/DirectionUID80488DF4725BA791648069753909FC4.tmp' to 'C:/Users/YZX06/Documents/GitHub/Unreal-Blueprint-Project/PUBG_BP_Project/Content/Blueprints/UI/MainUI/DirectionUI.uasset'
+[2021.08.06-20.45.00:474][858]AssetCheck: New page: Asset Save: DirectionUI
+[2021.08.06-20.45.00:474][858]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/MainUI/DirectionUI.DirectionUI
+[2021.08.06-20.45.02:169][995]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.08.06-20.45.02:176][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.06-20.45.02:176][995]PIE: New page: PIE session: Level_Test (Aug. 6, 2021, 12:45:02 p.m.)
+[2021.08.06-20.45.02:176][995]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Test
+[2021.08.06-20.45.02:432][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.256744s)
+[2021.08.06-20.45.02:433][995]LogAIModule: Creating AISystem for world Level_Test
+[2021.08.06-20.45.02:433][995]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2021.08.06-20.45.02:434][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Test.Level_Test to /Game/Maps/UEDPIE_0_Level_Test.Level_Test (0.257894s)
+[2021.08.06-20.45.02:467][995]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2021.08.06-20.45.02:467][995]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.08.06-20.45.02:467][995]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.06-20.45.02:467][995]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.06-20.45.02:467][995]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.06-20.45.02:467][995]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.06-20.45.02:467][995]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.06-20.45.02:467][995]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.06-20.45.02:467][995]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.06-20.45.02:467][995]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.06-20.45.02:468][995]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.06-20.45.02:468][995]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.06-20.45.02:472][995]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.06-20.45.02:472][995]LogAudioMixer: Display: 1: FrontRight
+[2021.08.06-20.45.02:481][995]LogAudioMixer: Display: Using Audio Device 1 - LG HDR 4K (AMD High Definition Audio Device)
+[2021.08.06-20.45.02:482][995]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.06-20.45.02:482][995]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.06-20.45.02:482][995]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.06-20.45.02:482][995]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.06-20.45.02:482][995]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.06-20.45.02:482][995]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.06-20.45.02:493][995]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.06-20.45.02:493][995]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.06-20.45.02:493][995]LogInit: FAudioDevice initialized.
+[2021.08.06-20.45.02:493][995]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level_Test'.
+[2021.08.06-20.45.02:538][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-20.45.02:538][995]LogLoad: Game class is 'MyGameMode_C'
+[2021.08.06-20.45.02:567][995]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Test.Level_Test up for play (max tick rate 0) at 2021.08.06-16.45.02
+[2021.08.06-20.45.02:568][995]LogWorld: Bringing up level for play took: 0.028700
+[2021.08.06-20.45.02:568][995]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.08.06-20.45.02:689][995]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.06-20.45.02:692][995]PIE: Server logged in
+[2021.08.06-20.45.02:693][995]PIE: Play in editor total start time 0.518 seconds.
+[2021.08.06-20.45.34:862][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-20.45.34:862][903]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_Test
+[2021.08.06-20.45.34:863][903]LogSlate: Window 'PUBG_Blueprint Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.06-20.45.34:872][903]LogWorld: UWorld::CleanupWorld for Level_Test, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-20.45.34:878][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-20.45.34:882][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.06-20.45.34:902][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-20.45.34:933][903]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.06-20.45.34:933][903]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-20.45.34:934][903]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-20.45.34:962][903]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.08.06-20.45.35:004][904]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.08.06-20.46.05:747][365]LogEditorTransaction: Undo Move Node
+[2021.08.06-20.46.06:555][409]LogEditorTransaction: Undo Move Node
+[2021.08.06-20.46.07:180][482]LogEditorTransaction: Undo Move Node
+[2021.08.06-20.46.07:640][535]LogEditorTransaction: Undo Add Node
+[2021.08.06-20.46.46:875][170]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Blueprints/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
